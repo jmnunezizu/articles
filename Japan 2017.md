@@ -7,7 +7,7 @@
 #### Disk Union (ディスクユニオン)
 
 Name | Hours | Address
----- | ----- | ----- | ------
+---- | ----- | ----- 
 [SHINJUKU ROCK RECORD STORE](http://diskunion.net/shop/ct/shinjuku_rockrecord) | 11:00-21:00 (Sunday/Holiday -20:00) | Shimogiku Bldg. 4F/5F, 3-34-12 Shinjuku Shinjuku-ku, Tokyo 160-0022
 [SHINJUKU JAPANESE ROCK/INDIES STORE(BF)](http://diskunion.net/shop/ct/shinjuku_jp) |11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. BF, 3-31-4 Shinjuku Shinjuku-ku, Tokyo 160-0022
 [SHINJUKU ROCK CD STORE(1F)](http://diskunion.net/shop/ct/shinjuku_rock) | 11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. 1F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
