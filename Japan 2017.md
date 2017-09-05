@@ -2,6 +2,10 @@
 
 ## Tokyo
 
+### Shinjuku
+
+### Shibuya
+
 ### Disk Union (ディスクユニオン)
 
 Name | Hours | Address
@@ -28,18 +32,6 @@ Name | Hours | Address
 [OCHANOMIZU HARD ROCK/HEAVY METAL STORE](http://diskunion.net/shop/ct/ocha_metal) | 11:00-21:00 (Sunday/Holiday -20:00) | Akanetubo Bldg., 2-6-10 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062
 [SHIBUYA USED STORE](http://diskunion.net/shop/ct/shibuya_used) | 11:00-21:00 (Sunday/Holiday -20:00) | Antena21 Bldg. 2F/3F, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042
 [SHIBUYA JAZZ/RARE GROOVE STORE](http://diskunion.net/shop/ct/shibuya_jazz) | 11:00-21:00 (Sunday/Holiday -20:00) | Antena21 Bldg. BF, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042
-
-![Disk Union Route Map](images/diskunion_route_map.png)
-
-<table>
-  <tr>
-	<td><img src="images/diskunion_shinjuku_area_map.png"/></td>
-    <td><img src="images/diskunion_shibuya_area_map.png"/></td>
-    <td><img src="images/diskunion_ochanomizu_area_map.png"/></td>
-  </tr>
-</table>
-
-![Disk Union Shinjuku](images/disc_union_shinjuku.gif)
 
 Name | Area | Genres | Hours | Address | Comments
 ---- | ----- | ------ | ----- | ------ | -----
@@ -170,3 +162,17 @@ Name | Area | Genres | Hours | Address | Comments | Photos
 English | Japanese | Pronounciation
 ------- | -------- | --------------
 Analog  | アナログ  | Anarogu 
+
+## Maps
+
+![Disk Union Route Map](images/diskunion_route_map.png)
+
+<table>
+  <tr>
+	<td><img src="images/diskunion_shinjuku_area_map.png"/></td>
+    <td><img src="images/diskunion_shibuya_area_map.png"/></td>
+    <td><img src="images/diskunion_ochanomizu_area_map.png"/></td>
+  </tr>
+</table>
+
+![Disk Union Shinjuku](images/disc_union_shinjuku.gif)
