@@ -31,8 +31,31 @@ Name | Genres | Hours | Address | Comments | Photos
 [Disk Union Showa Kayokan](http://diskunion.net/shop/ct/showa_kayou) | Showa | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Mimaki Building BF 3-28-4, Shinjuku-ku, Tokyo 160-0022 Tokyo ](https://goo.gl/maps/Bkk1VgpHyBt)
 [Disk Union Cinema Store](http://diskunion.net/shop/ct/shinjuku_movie) | Movies / Soundtracks | 11:00-21:00 (Sunday/Holiday -20:00) | [Mitsumine Bldg. 3F, 3-28-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/Bkk1VgpHyBt)
 [Disk Union Heavy Metal Store](http://diskunion.net/shop/ct/shinjuku_metal) | Heavy Metal | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Mitsumine Bldg. 5F, 3-28-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/Bkk1VgpHyBt)
+[hmv Shinjuku](http://www.hmv.co.jp) | All | 11:00 ~ 22:00 | [Japan, 〒160-0022 Tōkyō-to, Shinjuku-ku, 新宿区Shinjuku, 3 Chome−24−6, 新宿ALTA 6F](https://goo.gl/maps/8zPEybH5n1p)
 
 ### Shibuya (渋谷区)
+
+Name | Genres | Hours | Address | Comments | Photos
+---- | ------ | ----- | ------- | -------- | ------
+[Lighthouse Records](http://lighthouserecords.jp) | House Music | 14:00 ~ 22:00 | [Japan, 〒150-0043 Tōkyō-to, Shibuya-ku, Dōgenzaka, 2 Chome−9−2, 正実ビル3F](https://goo.gl/maps/W46AiohJDpr)
+[Discland Jaro](http://music.geocities.jp/disclandjaro) | Modern Jazz | 10:30 ~ 19:30 | [Japan, 〒150-0042 Tōkyō-to, Shibuya-ku, Udagawachō, 26, 宇田川町26−6](https://goo.gl/maps/dcYejafhwbG2)
+[Lot Records](http://www.lotrecord.com) | R&B | 14:00 ~ 21:00 | [Japan, 〒150-0043 Tōkyō-to, Shibuya-ku, Dōgenzaka, 2 Chome−18, ２ 丁目 １８−５](https://goo.gl/maps/k8gX1677B152)
+[Manhattan Records](http://manhattanrecords.jp) | Hip-Hop / R&B | 12:00 ~ 21:00 | [Japan, 〒150-0042 Tōkyō-to, Shibuya-ku, Udagawachō, 10−101, 木船ビル](https://goo.gl/maps/aSzSKFvmQmm) | | ![](images/tokyo/manhattan-records.jpg)
+[Face Records](http://www.facerecords.com) | Jazz / Soul / Funk / Rock | 13:00 ~ 20:00 | [10-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/R7dwgg1NKbA2) | | ![](images/tokyo/face-records.jpg)
+[hmv Shibuya](http://recordshop.hmv.co.jp) | All | 11:00 ~ 22:00 | [36-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/wdxMAJPVDVH2) | | ![](images/tokyo/hmv-shibuya.jpg)
+[The Perfect Circle](https://blogs.yahoo.co.jp/wwwperfectcirclecojp) | Blues | ? | [311 Noa-Shibuya Bldg, 36-2 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/qnPevYeARH62)
+[Manual of Errors Sonata](http://www.manuera.com/sonata) | ? | 13:00 ~ 20:00 | [〒150-0042 ノア 渋谷 1103 号, 36-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/vDzdQQU4fVy)
+[Recofan](http://www.recofan.co.jp) | All | 11:30 ~ 21:00 | [31-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/4JtWjZLHDuC2)
+[Disk Union Used Store](http://diskunion.net) | All | 11:00 ~ 21:00 | [Antena21 Bldg. 2F/3F, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/pVmqdx6P9Lq)
+[Disk Union Jazz / Rare Groove Store](http://diskunion.net) | Jazz / Rare Groove | 11:00 ~ 21:00 | [Antena21 Bldg. BF, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/pVmqdx6P9Lq)
+[Disk Union Hip Hop / Dance Store](http://diskunion.net) | Hip Hop / Dance | 11:00 ~ 21:00 | [Antena21 Bldg. 4F, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/pVmqdx6P9Lq)
+[Disk Union Punk Store](http://diskunion.net) | Punk | 11:00 ~ 21:00 | [Antena21 Bldg. 5F, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/pVmqdx6P9Lq)
+[El Sur Records]() | World Music | 14:00 ~ 21:00 | [1 Chome-15-9 Jinnan, Shibuya-ku, Tōkyō-to 150-0041, Japan](https://goo.gl/maps/nRANV7MorYR2)
+[Coco Isle Music Market](http://www.coco-isle.com) | Reggae | 12:00 ~ 21:00 | [Japan, 〒150-0041 Tokyo, Shibuya, Jinnan, 1 Chome−3−2, 不二ビル 4F](https://goo.gl/maps/WvFCkjJ5HtK2)
+[Nothin' But Records]() | ? | 15:00 ~ 21:00 | [〒150-0041 ダイネス 壱 番館 渋谷 901, 1 Chome-11-5 Jinnan, Shibuya-ku, Tōkyō-to 150-0041, Japan](https://goo.gl/maps/xwpk9cBkaZP2)
+[Hi Fi Record Store](http://www.hi-fi.gr.jp) | Rare | 12:00 ~ 21:00 | [Japan, 〒150-0001 東京都渋谷区 神宮前6丁目19番17号 ペリエ神宮前3階](https://goo.gl/maps/hFsnfs9t3gp)
+[Dessinee Shop](http://www.dessineeshop.com) | ? | 14:00 ~ 20:00 | [17 Uguisudanichō, Shibuya-ku, Tōkyō-to 150-0032, Japan](https://goo.gl/maps/uhGtoa3EgR52)
+
 
 ### Disk Union (ディスクユニオン)
 
@@ -42,21 +65,15 @@ Name | Hours | Address
 [JazzTOKYO STORE](http://diskunion.net/shop/ct/jazz_tokyo) | 11:00-21:00 (Sunday/Holiday -20:00) | [New Surugadai Bldg. 2F, 2-1-45 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062](https://goo.gl/maps/fqJRCN3nMbL2)
 [OCHANOMIZU SOUL/RARE GROOVE STORE](http://diskunion.net/shop/ct/ocha_soul) | 11:00-21:00 (Sunday/Holiday -20:00) | New Surugadai Bldg. 2F, 2-1-45 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062
 [OCHANOMIZU HARD ROCK/HEAVY METAL STORE](http://diskunion.net/shop/ct/ocha_metal) | 11:00-21:00 (Sunday/Holiday -20:00) | Akanetubo Bldg., 2-6-10 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062
-[SHIBUYA USED STORE](http://diskunion.net/shop/ct/shibuya_used) | 11:00-21:00 (Sunday/Holiday -20:00) | Antena21 Bldg. 2F/3F, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042
-[SHIBUYA JAZZ/RARE GROOVE STORE](http://diskunion.net/shop/ct/shibuya_jazz) | 11:00-21:00 (Sunday/Holiday -20:00) | Antena21 Bldg. BF, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042
 
 Name | Area | Genres | Hours | Address | Comments
 ---- | ----- | ------ | ----- | ------ | -----
 [Jazz TOKYO](http://blog-ocha-soul.diskunion.net/) | Ochanomizu, Tokyo | Soul, Rare Groove | 11:00 ~ 21:00 (Sunday/Holiday 20:00) | [〒101-0062 東京都千代田区Kanda Surugadai, 2 Chome, 神田駿河台２丁目１−４５-2F](https://goo.gl/maps/2H1YJQfHZfC2) | [Odigo](https://www.odigo.jp/spots/10954-disk-union-jazz-tokyo-chiyoda-ku) Best Jazz store in Tokyo
-[Osaka Store](http://diskunion.net/shop/ct/osaka) | Osaka | All | 11:00 ~ 21:00 (Sunday/Holiday 20:00) | ACTIII Bldg. 1F, 15-17 Douzan-cho Kitaku Osaka-shi, Osaka 530-0027
 
 ### The Rest
 
 Name | Area | Genres | Opening Hours | Address
 ---- | ---- | ------ | ------------- | -------
-[Shame Records](http://www.shamerecords.main.jp) | Shinjuku | R&B, Soul, Funk, Disco, Hip Hop | 15:00 ~ 21:00 | 〒160-0023 東京都新宿区西新宿7-16-15第一歯朶ビル4F-A
-[Hal's](http://hals-jazz.com) | Shinjuku | Jazz, Brazil | 12:00 ~ 21:00 | 〒160-0023 東京都新宿区西新宿7丁目10-17 新宿ダイカンプラザ　B館　306号
-[The Perfect Circle Beatles](http://www.perfectcirclebeatles.jp) | Shinjuku | Beatles | 12:00 ~ 21:00 | 〒160-0023 東京都新宿区西新宿7-10-17ダイカンプラザB館507
 [Coconuts Disk](http://www.coconutsdisk.com) | Yoyogi | All | 12:00 ~ 21:00 | 〒151-0053 渋谷区代々木1-36-6
 [East Record](http://www.eastrecord.com) | Chiyoda | Soul, Funk, Disco, Rare Groove, Jazz, World Music | 14:00 ~ 22:00 (Monday Closed) | 〒101-0051 神田神保町1-12シマダビル4F
 
