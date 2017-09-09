@@ -4,28 +4,40 @@
 
 ### Shinjuku (新宿区)
 
+Name | Genres | Hours | Address | Comments | Photos
+---- | ------ | ----- | ------- | -------- | ------
+[Record Eurasia](http://www.record-eurasia.com) | 70s and 80s Rare | 13:00 ~ 17:00 | [Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 7 Chome−7−16−15, 歯朶ビル 2F](https://goo.gl/maps/DbXboemwTWu) | | ![](images/tokyo/record-eurasia.jpg)
+[Shame Records](http://shamerecords.main.jp) | Black | 15:00 ~ 21:00 | [Japan, 〒160-0023 Tokyo, Shinjuku, Nishishinjuku, 7 Chome−16−15, 第一歯朶ビル4F-A](https://goo.gl/maps/btdfKGUDjfJ2) | | ![](images/tokyo/shame-records.jpg)
+[Red Ring Records](http://www.redringrecords.com) | ? | 12:00 ~ 21:00 | [7-8-11 Nishishinjuku, Shinjuku, Tokyo 160-0023, Japan](https://goo.gl/maps/ppPW8UVag682) | | ![](images/tokyo/red-ring-records2.jpg)
+[Beat Collector's](http://beatcollectors-japan.com) | 12inch | 13:00 ~ 21:00 | [7 Chome-10-17 Nishishinjuku, Shinjuku, Tokyo 160-0023, Japan](https://goo.gl/maps/6KsofjEcKQE2)
+[Hal's](http://www.hals-jazz.com) | Jazz | 12:00 ~ 21:00 | [7 Chome-10-17 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan](https://goo.gl/maps/1g8Aw4QDvmG2)
+[The Perfect Circle Beatles](http://www.perfectcirclebeatles.jp) | Beatles | 12:00 ~ 21:00 | [7 Chome-10-17 Nishishinjuku, Shinjuku, Tokyo 160-0023, Japan](https://goo.gl/maps/md8cxyK41u52) | Same building as Hal's
+[Neds Records](http://www.neds-records.com) | Noise | 19:30 ~ 21:30 | [7 Chome-1-7 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan](https://goo.gl/maps/5gVjNbRBJ632)
+[Dub Store Record Mart](http://www.reggaerecord.com) | Reggae / Black | 12:00 ~ 20:00 | [7 Chome-13-135 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan](https://goo.gl/maps/f7FyrwzXAq42)
+[Sawadee Shop](http://sawadee-shop.com) | Thai | 15:00 ~ 19:00 | [7 Chome-12-14 Nishishinjuku, Shinjuku, Tokyo 160-0023, Japan](https://goo.gl/maps/iZR5eF635XM2) | | ![](images/tokyo/sawadee-shop.jpg)
+[Disk Union Used Store](http://diskunion.net/shop/ct/shinjuku_used) | ? | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Kawase Bldg. 3F, 3-17-5 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/nYwGde4Tbvn) | | ![](images/tokyo/disk-union-used.jpg)
+[Disk Union Classical Music Store](http://diskunion.net/shop/ct/shinjuku_classic) | Classical | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Kawase Bldg. 8F, 3-17-5 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/TjshG2QNE612)
+[Disk Union Jazz Store](http://diskunion.net/shop/ct/shinjuku_jazz) | Jazz | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [3-31-2 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/Esy8a7759Uq) | | ![](images/tokyo/disk-union-jazz.jpg)
+[Disk Union Japanese Rock](http://diskunion.net/shop/ct/shinjuku_jp) | Japanese | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Yamada Bldg. BF, 3-31-4 Shinjuku Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/QPnrCdPvpxA2) | | ![](images/tokyo/disk-union.jpg)
+[Disk Union Rock CD Store](http://diskunion.net/shop/ct/shinjuku_rock) | Rock | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Yamada Bldg. 1F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/QPnrCdPvpxA2) | | ![](images/tokyo/disk-union.jpg)
+[Disk Union Progressive Rock Store](http://diskunion.net/shop/ct/shinjuku_progre) | Progressive Rock | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Yamada Bldg. 3F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/QPnrCdPvpxA2) | | ![](images/tokyo/disk-union.jpg)
+[Disk Union Latin - Brazil Store](http://diskunion.net/shop/ct/shinjuku_latin) | Latin / Brazil | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Yamada Bldg. 4F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/QPnrCdPvpxA2) | | ![](images/tokyo/disk-union.jpg)
+[Disk Union Used Rock CD Store](http://diskunion.net/shop/ct/shinjuku_usedrockcd) | Rock | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Yamada Bldg. 5F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/QPnrCdPvpxA2) | | ![](images/tokyo/disk-union.jpg)
+[Disk Union Indie - Alternative Rock Store](http://diskunion.net/shop/ct/shinjuku_alternative) | Indie / Alt. Rock | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Yamada Bldg. 6F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/QPnrCdPvpxA2) | | ![](images/tokyo/disk-union.jpg)
+[Disk Union Punk Store](http://diskunion.net/shop/ct/shinjuku_punk) | Punk | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Yamada Bldg. 7F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/QPnrCdPvpxA2) | | ![](images/tokyo/disk-union.jpg)
+[Disk Union Rock Record Store](http://diskunion.net/shop/ct/shinjuku_rockrecord) | Rock | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Shimogiku Bldg. 4F/5F, 3-34-12 Shinjuku Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/ZRz19kaFjPt)
+[Disk Union Soul - Blues Store](http://diskunion.net/shop/ct/shinjuku_soul) | Rare Groove / Soul / Funk / Blues | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Fukumoto Bldg. BF, 3-28-2 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/eo8Bsq271sq) | | ![](images/tokyo/disk-union-fukumoto-building.jpg)
+[Disk Union Hip-Hop - Dance Music Store](http://diskunion.net/shop/ct/shinjuku_club) | Hip-Hop / Dance Music | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Fukumoto Bldg. 3F, 3-28-2 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/eo8Bsq271sq) | | ![](images/tokyo/disk-union-fukumoto-building.jpg)
+[Disk Union Showa Kayokan](http://diskunion.net/shop/ct/showa_kayou) | Showa | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Mimaki Building BF 3-28-4, Shinjuku-ku, Tokyo 160-0022 Tokyo ](https://goo.gl/maps/Bkk1VgpHyBt)
+[Disk Union Cinema Store](http://diskunion.net/shop/ct/shinjuku_movie) | Movies / Soundtracks | 11:00-21:00 (Sunday/Holiday -20:00) | [Mitsumine Bldg. 3F, 3-28-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/Bkk1VgpHyBt)
+[Disk Union Heavy Metal Store](http://diskunion.net/shop/ct/shinjuku_metal) | Heavy Metal | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Mitsumine Bldg. 5F, 3-28-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022](https://goo.gl/maps/Bkk1VgpHyBt)
+
 ### Shibuya (渋谷区)
 
 ### Disk Union (ディスクユニオン)
 
 Name | Hours | Address
 ---- | ----- | ----- 
-[SHINJUKU ROCK RECORD STORE](http://diskunion.net/shop/ct/shinjuku_rockrecord) | 11:00-21:00 (Sunday/Holiday -20:00) | Shimogiku Bldg. 4F/5F, 3-34-12 Shinjuku Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU JAPANESE ROCK/INDIES STORE(BF)](http://diskunion.net/shop/ct/shinjuku_jp) |11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. BF, 3-31-4 Shinjuku Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU ROCK CD STORE(1F)](http://diskunion.net/shop/ct/shinjuku_rock) | 11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. 1F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU CD・RECORD ACCESSORY STORE(2F)](http://diskunion.net/shop/ct/shinjuku_acc) | 11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. 2F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU PROGRESSIVE ROCK STORE(3F)](http://diskunion.net/shop/ct/shinjuku_progre) | 11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. 3F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU LATIN・BRAZIL STORE(4F)](http://diskunion.net/shop/ct/shinjuku_latin) | 11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. 4F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU USED ROCK CD STORE(5F)](http://diskunion.net/shop/ct/shinjuku_usedrockcd) | 11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. 5F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU INDIE・ALTERNATIVE ROCK STORE(6F)](http://diskunion.net/shop/ct/shinjuku_alternative) | 11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. 6F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU PUNK STORE(7F)](http://diskunion.net/shop/ct/shinjuku_punk) | 11:00-21:00 (Sunday/Holiday -20:00) | Yamada Bldg. 7F, 3-31-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU USED STORE](http://diskunion.net/shop/ct/shinjuku_used) | 11:00-21:00 (Sunday/Holiday -20:00) | Kawase Bldg. 3F, 3-17-5 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU JAZZ STORE](http://diskunion.net/shop/ct/shinjuku_jazz) | 11:00-21:00 (Sunday/Holiday -20:00) | 3-31-2 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU CLASSICAL MUSIC STORE](http://diskunion.net/shop/ct/shinjuku_classic) | 11:00-21:00 (Sunday/Holiday -20:00) | Kawase Bldg. 8F, 3-17-5 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU SOUL/BLUES STORE](http://diskunion.net/shop/ct/shinjuku_soul) | 11:00-21:00 (Sunday/Holiday -20:00) | Fukumoto Bldg. BF, 3-28-2 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU HIPHOP/DANCE MUSIC STORE](http://diskunion.net/shop/ct/shinjuku_club) | 11:00-21:00 (Sunday/Holiday -20:00) | Fukumoto Bldg. 3F, 3-28-2 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU HEAVY METAL STORE](http://diskunion.net/shop/ct/shinjuku_metal) | 11:00-21:00 (Sunday/Holiday -20:00) | Mitsumine Bldg. 5F, 3-28-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
-[SHINJUKU CINEMA STORE](http://diskunion.net/shop/ct/shinjuku_movie) | 11:00-21:00 (Sunday/Holiday -20:00) | Mitsumine Bldg. 3F, 3-28-4 Shinjuku, Shinjuku-ku, Tokyo 160-0022
 [OCHANOMIZU EKIMAE STORE](http://diskunion.net/shop/ct/ocha_ekimae) | 11:00-21:00 (Sunday/Holiday -20:00) | Shin-Ochanomizu Bldg. 2F, 4-3 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062
 [JazzTOKYO STORE](http://diskunion.net/shop/ct/jazz_tokyo) | 11:00-21:00 (Sunday/Holiday -20:00) | [New Surugadai Bldg. 2F, 2-1-45 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062](https://goo.gl/maps/fqJRCN3nMbL2)
 [OCHANOMIZU SOUL/RARE GROOVE STORE](http://diskunion.net/shop/ct/ocha_soul) | 11:00-21:00 (Sunday/Holiday -20:00) | New Surugadai Bldg. 2F, 2-1-45 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062
@@ -35,7 +47,7 @@ Name | Hours | Address
 
 Name | Area | Genres | Hours | Address | Comments
 ---- | ----- | ------ | ----- | ------ | -----
-[Jazz TOKYO](http://blog-ocha-soul.diskunion.net/) | Ochanomizu, Tokyo | Soul, Rare Groove | 11:00 ~ 21:00 (Sunday/Holiday 20:00) | [〒101-0062 東京都千代田区Kanda Surugadai, 2 Chome, 神田駿河台２丁目１−４５-2F](https://www.google.com/maps/place/Disk+Union/@35.6984038,139.7628927,17z/data=!4m5!3m4!1s0x0:0x7d19a524bd5f1a23!8m2!3d35.698944!4d139.762603?hl=en-US) | [Odigo](https://www.odigo.jp/spots/10954-disk-union-jazz-tokyo-chiyoda-ku) Best Jazz store in Tokyo
+[Jazz TOKYO](http://blog-ocha-soul.diskunion.net/) | Ochanomizu, Tokyo | Soul, Rare Groove | 11:00 ~ 21:00 (Sunday/Holiday 20:00) | [〒101-0062 東京都千代田区Kanda Surugadai, 2 Chome, 神田駿河台２丁目１−４５-2F](https://goo.gl/maps/2H1YJQfHZfC2) | [Odigo](https://www.odigo.jp/spots/10954-disk-union-jazz-tokyo-chiyoda-ku) Best Jazz store in Tokyo
 [Osaka Store](http://diskunion.net/shop/ct/osaka) | Osaka | All | 11:00 ~ 21:00 (Sunday/Holiday 20:00) | ACTIII Bldg. 1F, 15-17 Douzan-cho Kitaku Osaka-shi, Osaka 530-0027
 
 ### The Rest
