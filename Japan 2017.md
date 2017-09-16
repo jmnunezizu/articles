@@ -4,6 +4,8 @@
 
 ### Shinjuku (新宿区)
 
+![](images/recordmap/recordmap-02-tokyo-shinjuku.jpg)
+
 Name | Genres | Hours | Address | Comments | Photos
 ---- | ------ | ----- | ------- | -------- | ------
 [Record Eurasia](http://www.record-eurasia.com) | 70s and 80s Rare | 13:00 ~ 17:00 | [Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 7 Chome−7−16−15, 歯朶ビル 2F](https://goo.gl/maps/DbXboemwTWu) | | ![](images/tokyo/record-eurasia.jpg)
@@ -35,17 +37,19 @@ Name | Genres | Hours | Address | Comments | Photos
 
 ### Shibuya (渋谷区)
 
+![](images/recordmap/recordmap-01-tokyo-shibuya.jpg)
+
 Name | Genres | Hours | Address | Comments | Photos
 ---- | ------ | ----- | ------- | -------- | ------
 [Lighthouse Records](http://lighthouserecords.jp) | House Music | 14:00 ~ 22:00 | [Japan, 〒150-0043 Tōkyō-to, Shibuya-ku, Dōgenzaka, 2 Chome−9−2, 正実ビル3F](https://goo.gl/maps/W46AiohJDpr)
-[Discland Jaro](http://music.geocities.jp/disclandjaro) | Modern Jazz | 10:30 ~ 19:30 | [Japan, 〒150-0042 Tōkyō-to, Shibuya-ku, Udagawachō, 26, 宇田川町26−6](https://goo.gl/maps/dcYejafhwbG2)
+[Discland Jaro](http://music.geocities.jp/disclandjaro) | Modern Jazz | 10:30 ~ 19:30 | [Japan, 〒150-0042 Tōkyō-to, Shibuya-ku, Udagawachō, 26, 宇田川町26−6](https://goo.gl/maps/dcYejafhwbG2) | | ![](images/tokyo/discland-jaro-out.jpg)
 [Lot Records](http://www.lotrecord.com) | R&B | 14:00 ~ 21:00 | [Japan, 〒150-0043 Tōkyō-to, Shibuya-ku, Dōgenzaka, 2 Chome−18, ２ 丁目 １８−５](https://goo.gl/maps/k8gX1677B152)
-[Manhattan Records](http://manhattanrecords.jp) | Hip-Hop / R&B | 12:00 ~ 21:00 | [Japan, 〒150-0042 Tōkyō-to, Shibuya-ku, Udagawachō, 10−101, 木船ビル](https://goo.gl/maps/aSzSKFvmQmm) | | ![](images/tokyo/manhattan-records.jpg)
-[Face Records](http://www.facerecords.com) | Jazz / Soul / Funk / Rock | 13:00 ~ 20:00 | [10-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/R7dwgg1NKbA2) | | ![](images/tokyo/face-records.jpg)
-[hmv Shibuya](http://recordshop.hmv.co.jp) | All | 11:00 ~ 22:00 | [36-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/wdxMAJPVDVH2) | | ![](images/tokyo/hmv-shibuya.jpg)
+[Manhattan Records](http://manhattanrecords.jp) | Hip-Hop / R&B | 12:00 ~ 21:00 | [Japan, 〒150-0042 Tōkyō-to, Shibuya-ku, Udagawachō, 10−101, 木船ビル](https://goo.gl/maps/aSzSKFvmQmm) | | ![](images/tokyo/manhattan-records-out.jpg)
+[Face Records](http://www.facerecords.com) | Jazz / Soul / Funk / Rock | 13:00 ~ 20:00 | [10-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/R7dwgg1NKbA2) | | ![](images/tokyo/face-records-out.jpg)
+[hmv Shibuya](http://recordshop.hmv.co.jp) | All | 11:00 ~ 22:00 | [36-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/wdxMAJPVDVH2) | | ![](images/tokyo/hmv-shibuya-out.jpg)
 [The Perfect Circle](https://blogs.yahoo.co.jp/wwwperfectcirclecojp) | Blues | ? | [311 Noa-Shibuya Bldg, 36-2 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/qnPevYeARH62)
 [Manual of Errors Sonata](http://www.manuera.com/sonata) | ? | 13:00 ~ 20:00 | [〒150-0042 ノア 渋谷 1103 号, 36-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/vDzdQQU4fVy)
-[Recofan](http://www.recofan.co.jp) | All | 11:30 ~ 21:00 | [31-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/4JtWjZLHDuC2)
+[Recofan](http://www.recofan.co.jp) | All | 11:30 ~ 21:00 | [31-2 Udagawachō, Shibuya-ku, Tōkyō-to 150-0042, Japan](https://goo.gl/maps/4JtWjZLHDuC2) | | ![](images/tokyo/recofan.jpg)
 [Disk Union Used Store](http://diskunion.net) | All | 11:00 ~ 21:00 | [Antena21 Bldg. 2F/3F, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/pVmqdx6P9Lq)
 [Disk Union Jazz / Rare Groove Store](http://diskunion.net) | Jazz / Rare Groove | 11:00 ~ 21:00 | [Antena21 Bldg. BF, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/pVmqdx6P9Lq)
 [Disk Union Hip Hop / Dance Store](http://diskunion.net) | Hip Hop / Dance | 11:00 ~ 21:00 | [Antena21 Bldg. 4F, 30-7 Udagawa-cho, Shibuya-ku, Tokyo 150-0042](https://goo.gl/maps/pVmqdx6P9Lq)
@@ -56,30 +60,38 @@ Name | Genres | Hours | Address | Comments | Photos
 [Hi Fi Record Store](http://www.hi-fi.gr.jp) | Rare | 12:00 ~ 21:00 | [Japan, 〒150-0001 東京都渋谷区 神宮前6丁目19番17号 ペリエ神宮前3階](https://goo.gl/maps/hFsnfs9t3gp)
 [Dessinee Shop](http://www.dessineeshop.com) | ? | 14:00 ~ 20:00 | [17 Uguisudanichō, Shibuya-ku, Tōkyō-to 150-0032, Japan](https://goo.gl/maps/uhGtoa3EgR52)
 
+### Ochanomizu
 
-### Disk Union (ディスクユニオン)
+![](images/recordmap/recordmap-04-tokyo-ochanomizu.jpg)
 
-Name | Hours | Address
----- | ----- | ----- 
-[OCHANOMIZU EKIMAE STORE](http://diskunion.net/shop/ct/ocha_ekimae) | 11:00-21:00 (Sunday/Holiday -20:00) | Shin-Ochanomizu Bldg. 2F, 4-3 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062
-[JazzTOKYO STORE](http://diskunion.net/shop/ct/jazz_tokyo) | 11:00-21:00 (Sunday/Holiday -20:00) | [New Surugadai Bldg. 2F, 2-1-45 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062](https://goo.gl/maps/fqJRCN3nMbL2)
-[OCHANOMIZU SOUL/RARE GROOVE STORE](http://diskunion.net/shop/ct/ocha_soul) | 11:00-21:00 (Sunday/Holiday -20:00) | New Surugadai Bldg. 2F, 2-1-45 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062
-[OCHANOMIZU HARD ROCK/HEAVY METAL STORE](http://diskunion.net/shop/ct/ocha_metal) | 11:00-21:00 (Sunday/Holiday -20:00) | Akanetubo Bldg., 2-6-10 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062
+Name | Genres | Hours | Address | Comments | Photos
+---- | ------ | ----- | ------- | -------- | ------
+[Disk Union Ochanomizu Ekimae Store](http://diskunion.net/shop/ct/ocha_ekimae) | All | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Shin-Ochanomizu Bldg. 2F, 4-3 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062](https://goo.gl/maps/fSZt7Zw8LJ62)
+[Disk Union Ochanomizu Soul / Rare Groove Store](http://diskunion.net/shop/ct/ocha_soul) | Soul / Rare Groove | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [New Surugadai Bldg. 2F, 2-1-45 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062](https://goo.gl/maps/Q4b2GGcZRkz)
+[Disk Union Ochanomizu Hard Rock Store](http://diskunion.net/shop/ct/ocha_metal) | Hard Rock / Heavy Metal | 11:00 ~ 21:00 (Sunday/Holiday -20:00) | [Akanetubo Bldg., 2-6-10 Kanda Surugadai, Chiyoda-ku, Tokyo 101-0062]
 
-Name | Area | Genres | Hours | Address | Comments
----- | ----- | ------ | ----- | ------ | -----
-[Jazz TOKYO](http://blog-ocha-soul.diskunion.net/) | Ochanomizu, Tokyo | Soul, Rare Groove | 11:00 ~ 21:00 (Sunday/Holiday 20:00) | [〒101-0062 東京都千代田区Kanda Surugadai, 2 Chome, 神田駿河台２丁目１−４５-2F](https://goo.gl/maps/2H1YJQfHZfC2) | [Odigo](https://www.odigo.jp/spots/10954-disk-union-jazz-tokyo-chiyoda-ku) Best Jazz store in Tokyo
 
-### The Rest
+### Other
 
-Name | Area | Genres | Opening Hours | Address
----- | ---- | ------ | ------------- | -------
-[Coconuts Disk](http://www.coconutsdisk.com) | Yoyogi | All | 12:00 ~ 21:00 | 〒151-0053 渋谷区代々木1-36-6
+<table>
+  <tr>
+    <td><img src="images/recordmap/recordmap-05-tokyo-shimokitazawa.jpg"/></td>
+    <td><img src="images/recordmap/recordmap-06-tokyo-koenji.jpg"/></td>
+  </tr>
+</table>
+
+Name | Area | Genres | Hours | Address | Comments | Photos
+---- | ---- | ------ | ----- | ------- | -------- | ------
+[Coconuts Disk](http://www.coconutsdisk.com) | Yoyogi | All | 12:00 ~ 21:00 | [Japan, 〒151-0053 東京都渋谷区 代々木１丁目３６−６ 代々木駅前ビル 2F](https://goo.gl/maps/fTe84VFV3x72)
+[Coconuts Disk Ikebukuro](http://www.coconutsdisk.com) | Ikebukuro | All | 12:00 ~ 21:00 | [Japan, 〒171-0021 Tōkyō-to, Toshima-ku, Nishiikebukuro, 3 Chome−22, 東京都豊島区 西池袋三丁目 22-7](https://goo.gl/maps/yMfe4Ust2Pz) | | ![](images/tokyo/coconut-disk-ikebukuro.jpg)
+[Disk Union](http://diskunion.net) | Ikebukuro | All | 11:00 ~ 21:00 | [Japan, 〒170-0013 Tokyo, Toshima, Higashiikebukuro, 1 Chome−1−2, 高村ビル ４Ｆ](https://goo.gl/maps/Wrquo5JAG2D2) | | ![](images/tokyo/disk-union-ikebukuro.jpg)
 [East Record](http://www.eastrecord.com) | Chiyoda | Soul, Funk, Disco, Rare Groove, Jazz, World Music | 14:00 ~ 22:00 (Monday Closed) | 〒101-0051 神田神保町1-12シマダビル4F
 
 ## Kyoto (京都)
 
 [Google Maps](https://drive.google.com/open?id=1_M3OVkB5mrUH73TzZ-gLK3c9TFw&usp=sharing)
+
+![](images/recordmap/recordmap-10-kyoto.jpg)
 
 Name | Area | Genres | Hours | Address | Comments | Photos
 ---- | ---- | ------ | ----- | ------- | -------- | ------
@@ -111,7 +123,7 @@ Workshop Records (ワークショップレコード) | ? | ? | 13:00 ~ 21:00 | [
 
 Osaka's northernmost entrance, Umeda · Osaka. The area is greatly located between the Osaka station front building (commercial building in the business district) and Hankyu Umeda station - Nakazaki town. In Toyama and Nakazaki-machi there are new clothes shops, cafés, book stores, and new stores are also appearing at record shops.
 
-![](images/osaka/map-umeda.png)
+![](images/recordmap/recordmap-07-osaka-umeda.jpg)
 
 Name | Genres | Hours | Address | Comments | Photos
 ---- | ------ | ----- | ------- | -------- | ------
@@ -129,7 +141,7 @@ Smile Record | ? | 11:00 ~ 20:00 | [Japan, 〒530-0026 Osaka Prefecture, Osaka, 
 
 Play area where young people gather, Shinsaibashi, Ame-mura, Horie area. There are many record shops in Ame-mura, stores with various features are densely populated, but many shops with unique taste can not be missed in the shops where there is a tight shop in the alley of the business district which is a little off the area.
 
-![](images/osaka/map-shinsaibashi-amerikamura.png)
+![](images/recordmap/recordmap-08-osaka-shinsaibashi-amerikamura.jpg)
 
 Name | Genres | Hours | Address | Comments | Photos
 ---- | ------ | ----- | ------- | -------- | ------
@@ -166,7 +178,7 @@ Name | Genres | Hours | Address | Comments | Photos
 
 Next to Namba, the Nihonbashi area is an electric and geeky town like Tokyo's Akihabara. Record shops are gathering miscellaneously from shops that have multiple stores to stores like new sect shops.
 
-![](images/osaka/map-namba-nihonbashi.png)
+![](images/recordmap/recordmap-09-osaka-namba-nihonbashi.jpg)
 
 Name | Genres | Hours | Address | Comments | Photos
 ---- | ------ | ----- | ------- | -------- | ------
@@ -196,11 +208,15 @@ Name | Genres | Hours | Address | Comments | Photos
 [Sam's Records Shop (サムズ・レコード・ショップ堺店)](http://www.sams-record.com) | Black | 11:00 ~ 20:00 | [〒590-0021 Ōsaka-fu, Sakai-shi, Sakai-ku, Kitamikunigaokachō, ７丁4−19](https://goo.gl/maps/yaNWNEyBZKo) | 50% LP / 50% CD
 [Red House](http://redhouse-osaka.com) | ? | 11:00 ~ 20:00 | [〒590-0021 Ōsaka-fu, Sakai-shi, Sakai-ku, Kitamikunigaokachō, ７丁4−15](https://goo.gl/maps/JUrPMZj8kXS2)
 
-## Useful Words
+## Useful Words / Expressions
 
 English | Japanese | Pronounciation
 ------- | -------- | --------------
-Analog  | アナログ  | Anarogu 
+Analog  | アナログ  | Anarogu
+Scratched | ? | hikkakareta
+Missing poster | ? | Posutaa nashi
+Split cover | ? | Warareta kabaa
+Disk Union | ディスクユニオン | Disk Union
 
 ## Maps
 
@@ -215,3 +231,7 @@ Analog  | アナログ  | Anarogu
 </table>
 
 ![Disk Union Shinjuku](images/disc_union_shinjuku.gif)
+
+## Useful Links
+
+- [Recoya](https://recoya.net/japan)
