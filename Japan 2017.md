@@ -208,6 +208,19 @@ Name | Genres | Hours | Address | Comments | Photos
 [Sam's Records Shop (サムズ・レコード・ショップ堺店)](http://www.sams-record.com) | Black | 11:00 ~ 20:00 | [〒590-0021 Ōsaka-fu, Sakai-shi, Sakai-ku, Kitamikunigaokachō, ７丁4−19](https://goo.gl/maps/yaNWNEyBZKo) | 50% LP / 50% CD
 [Red House](http://redhouse-osaka.com) | ? | 11:00 ~ 20:00 | [〒590-0021 Ōsaka-fu, Sakai-shi, Sakai-ku, Kitamikunigaokachō, ７丁4−15](https://goo.gl/maps/JUrPMZj8kXS2)
 
+## Nagoya (名古屋)
+
+Name | Genres | Hours | Address | Comments | Photos
+---- | ------ | ----- | ------- | -------- | ------
+[Banana Record](http://bananarecord.com) | All / Jazz / Classical | 10:00 ~ 20:00 | [Japan, 〒460-0003 Aichi, Nagoya, Naka-ku, Nishiki, 3-chōme−23, 錦3-23-31](https://goo.gl/maps/kx77Tf5qnfv) | 50% CD / 40% LP / 10% DVD. 3 floors. | 
+[Son Of Three Sounds](http://www.sonofthreesounds.com) | All | 12:00 ~ 20:00 | [Japan, 〒460-0008 Aichi, 名古屋市中区栄Naka Ward, Sakae, 3 Chome−9−10 アスカヰビル 2F](https://goo.gl/maps/aGLcSJoweeH2) | | ![](images/nagoya/son-of-three-sounds.jpg)
+[outrecord](http://outrecord.com) | Club Music | ? | [3-chōme-11-18 Sakae, Naka-ku, Nagoya, Aichi 460-0008, Japan](https://goo.gl/maps/oab4uV1dcmL2) | 95% LP / 5% CD | 
+[Music First](http://www.musicfirst.biz) | All | 11:00 ~ 20:00 | [Japan, 〒460-0008 Aichi, Nagoya, Naka-ku, Sakae, 3-chōme−32−10 ハセガワパーク栄ビル](https://goo.gl/maps/PaFUxd4LDgs) | 50% LP / 45% CD / 5% DVD | ![](images/nagoya/music-first-inside.jpg)
+[Pigeon Records](http://pigeon-records.jp) | House, Techno | 14:00 ~ 21:00 | [Japan, 〒460-0008 Aichi, Nagoya, Naka-ku, Sakae, 3-chōme−35−２２ ゴードン栄ビル](https://goo.gl/maps/FoTvfSrhdWw) | 90% LP / 10% CD | 
+K-ハウス | All | 11:00 ~ 19:00 | [3-chōme-11-２８ Ōsu, Naka-ku, Nagoya, Aichi 460-0011, Japan](https://goo.gl/maps/sNLdyqL2ZX12) | 40% CD / 15% LP | ![](images/nagoya/k-housu-out.jpg)
+[Hi-Fi-Do](http://www.hifido.co.jp) | All | 11:00 ~ 20:00 | [3-chōme-11-29 Ōsu, Naka-ku, Nagoya, Aichi 460-0011, Japan](https://goo.gl/maps/UqhgdFMRthD2) | 70% LP / 20% CD | ![](images/nagoya/hifido.jpg)
+
+
 ## Useful Words / Expressions
 
 English | Japanese | Pronounciation
@@ -220,7 +233,7 @@ Disk Union | ディスクユニオン | Disk Union
 
 ## Maps
 
-![Disk Union Route Map](images/diskunion_route_map.png)
+<!--![Disk Union Route Map](images/diskunion_route_map.png)
 
 <table>
   <tr>
@@ -231,7 +244,8 @@ Disk Union | ディスクユニオン | Disk Union
 </table>
 
 ![Disk Union Shinjuku](images/disc_union_shinjuku.gif)
-
+-->
 ## Useful Links
 
 - [Recoya](https://recoya.net/japan)
+- [Recordmap](http://www.hon-s.co.jp/)
